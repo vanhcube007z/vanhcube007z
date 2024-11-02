@@ -1,14 +1,8 @@
-# [ⓘ] ➜ 𓆤𝑵𝑽𓆉𝑽𝒂𝒏𝒉𓅃
+# [ⓘ] ➜ Thông tin admin :
 ## I'm [Vịt](https://www.facebook.com/vanh313z) - ❤️‍🩹😳NGUYEN VIET ANH💌✅️
-<h1 align="center">
-    <img src="home/img.svg"/>
-</h1>
-<a href="#" target="_blank">
-  <img src="home/vanhcube007z.svg" width="1200" alt="Click to see the source" />
-</a>
 
 # 📰 Talking about Information
-<img align="right" width=230px alt="PNG" src="https://i.imgur.com/s1tYjF8.jpg" />
+<img align="right" width=230px alt="PNG" src="https://i.imgur.com/a6aMYRD.jpeg" />
 
 -   ⚜️ My name is NGUYỄN VIỆT ANH
 -   ❤️‍🔥 31/03/2007
@@ -21,7 +15,7 @@
 
 # 📖 Top Langs
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-![Hello](home/hello.svg)
+![Hello](t.me/vanh313z)
 
 # 🤝🏻 Connect with Me
 <p align="center">
